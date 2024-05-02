@@ -1,0 +1,9 @@
+.pic{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+.cont{
+    border: 2px black;
+    padding: 20px 
+}
